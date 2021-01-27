@@ -1,0 +1,7 @@
+C:\Users\rahul.r.pandey\Source\Repos\GETest\GETest\bin\Debug\GETest.exe.config
+C:\Users\rahul.r.pandey\Source\Repos\GETest\GETest\bin\Debug\GETest.exe
+C:\Users\rahul.r.pandey\Source\Repos\GETest\GETest\bin\Debug\GETest.pdb
+C:\Users\rahul.r.pandey\Source\Repos\GETest\GETest\obj\Debug\GETest.csprojAssemblyReference.cache
+C:\Users\rahul.r.pandey\Source\Repos\GETest\GETest\obj\Debug\GETest.csproj.CoreCompileInputs.cache
+C:\Users\rahul.r.pandey\Source\Repos\GETest\GETest\obj\Debug\GETest.exe
+C:\Users\rahul.r.pandey\Source\Repos\GETest\GETest\obj\Debug\GETest.pdb
